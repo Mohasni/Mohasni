@@ -1,10 +1,10 @@
-# Salut, moi c'est Mohamed ! 👋
+# Salut, moi c'est Mohamed !
 
 Développeur Full-Stack (CDA) passionné par l'architecture logicielle, la cybersécurité et l'IA. 
 
 ---
 
-### 🛠️ Mon Stack Technique
+### Mon Stack Technique
 
 | Rôle | Technologies / Outils |
 | :--- | :--- |
@@ -14,6 +14,6 @@ Développeur Full-Stack (CDA) passionné par l'architecture logicielle, la cyber
 
 ---
 
-### 📊 Langages et Frameworks les plus utilisés (%)
+### Langages et Frameworks les plus utilisés (%)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasni&layout=compact&theme=radical&hide_border=true&include_all_commits=true" alt="Pourcentage des langages et frameworks" width="350" />
